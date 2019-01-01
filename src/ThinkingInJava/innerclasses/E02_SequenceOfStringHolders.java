@@ -1,6 +1,6 @@
 package ThinkingInJava.innerclasses;
 
-import ThinkingInJava.test12_22.Sequence;
+import ThinkingInJava.test.test12_22.Sequence;
 
 /**
  * @author SGN196

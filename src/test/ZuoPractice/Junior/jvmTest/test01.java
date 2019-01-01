@@ -6,10 +6,16 @@ package test.ZuoPractice.Junior.jvmTest;
  */
 
 
+import org.junit.Test;
+
 /**
  * 用数组结构实现大小固定的队列和栈
  */
 public class test01 {
+
+
+
+
     private Integer[] arr ;
     private Integer index;
 

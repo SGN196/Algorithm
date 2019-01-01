@@ -6,3 +6,4 @@ com/caiqian/Stack/BaseballGame/682棒球比赛.txt                              
 com/caiqian/Stack/BackspaceStringCompare/844比较含退格的字符串.txt                       2018/12/11 赞
 com/caiqian/heap/KthLargestElement_in_a_Stream/703数据流中的第K大元素.txt                2018/12/15 55718
 com/caiqian/Arrays/SortArrayByParity/905奇偶排序数组.txt                                2018/12/24  赞 26958
+com/caiqian/Arrays/FlippinganImage/832翻转图像.txt                                      2018/12/31  赞 27164

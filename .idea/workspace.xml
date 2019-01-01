@@ -2,95 +2,207 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46aa8e36-8e15-4e47-a94e-bb7444ca660b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/atguiguNIO/FilledList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/atguiguNIO/TestBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E01_ReferenceToInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E02_SequenceOfStringHolders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E03_InnerAccessingOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E04_SequenceSelectorTooSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E05_InstanceOfInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E04_AbstractBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E07_RodentInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E08_FastFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E09_AbstractMusic5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E10_PlayableMusic5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E11_Swapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E13_Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E14_InterfaceInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/CycleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Derived.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/E01_Upcasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/FieldAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Music3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/PloyConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/PrivateOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/ReferenceCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Tricycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/TwoMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Unicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/testCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/aa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/aaa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/bb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/bbb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/ccc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/ddd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/Adventure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/C_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/HorrorShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/Music5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/classprocessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/AdaptedRandomDoubles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/E17_ImplicitStaticFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/NestingInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomDoubles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test12_24/ZigZagPrintMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/905奇偶排序数组" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/MyStack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/BigRootHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_11_MaxGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/DogCatQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/MaxGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/MyComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/PrintEdge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/JConsoleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E01_gerbil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E02_SimpleCollection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E03_UnlimitedSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E18_NestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E19_InnerInsideInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E20_InterfaceWithNested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E21_InterfaceWithNested2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E22_GetRSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E23_UAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/BalanceTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/AddingGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Callbacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/FruitTEst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/MultiInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/TreeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/aaa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_24/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_25/ListWithRand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_25/Parcel5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_25/RegexExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_25/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_26/TEstBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_26/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_26/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/AnonymousConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/ClassInInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/Factories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/Outter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/Parcel10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/Parcel11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/Parcel7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/Parcel8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/Parcel9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_27/TestBad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/832翻转图像.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiqian/String/ValidPalinrome/125验证回文串" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiqian/String/ValidPalinrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_01_TrieTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_02_PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_03_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/ErgodicTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/IsPalidrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/Test023.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/BackspaceStringCompare/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/BackspaceStringCompare/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/BaseballGame/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/BaseballGame/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MinStack/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MinStack/MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MinStack/MinStackLogarithmic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MinStack/MinStackLogarithmic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MinStack/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MinStack/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MyQueue/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MyQueue/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MyStack/225用队列实现栈.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MyStack/225用队列实现栈.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MyStack/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/MyStack/MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/NextGreaterElementI/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/NextGreaterElementI/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/NextGreaterElementI/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/NextGreaterElementI/Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/Solution/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/Solution/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/Solution/SolutionLogarithmic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Stack/Solution/SolutionLogarithmic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/heap/KthLargestElement_in_a_Stream/KthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/heap/KthLargestElement_in_a_Stream/KthLargest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/innerclasses/E02_SequenceOfStringHolders.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/innerclasses/E02_SequenceOfStringHolders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/E09_AbstractMusic5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/E09_AbstractMusic5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Instrument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Playable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Playable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Playable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Playable2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Wind2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/interfaces/Wind2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Brass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Composing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/CycleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Derived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/E01_Upcasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/FieldAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Glyph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Music3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Percussion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/PloyConstructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/PrivateOverride.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/ReferenceCounting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/RoundGlyph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Shared.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Stringed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Super.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Tricycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/TwoMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Unicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Wind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/Woodwind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_19/test01/testCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test01/aa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test01/aaa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test01/bb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test01/bbb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test01/ccc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test01/ddd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test01/test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/ActionCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Adventure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/C2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/C3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/C4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/C_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/CanClimb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/CanFight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/CanFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/CanSwim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/DangerousMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Downcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/DragonZilla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/HorrorShow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/I1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/I2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/I3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Lethal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Music5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Splitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Upcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/Wind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_20/test02/classprocessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/A$D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/A$DImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/A$DImp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/AdaptedRandomDoubles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/E17_ImplicitStaticFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/NestingInterfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/RandomDoubles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/RandomWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/StaticFinalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_21/aaa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/DotNew$aaa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/DotNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/DotThis$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/DotThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Parcel1$Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Parcel1$Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Parcel1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Parcel2$Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Parcel2$Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Parcel2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Selector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Sequence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Sequence$SequenceSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_22/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_23/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_23/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test12_24/ZigZagPrintMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/caiqian/Arrays/SortArrayByParity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/test/ZuoPractice/Junior/jvmTest/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/test/ZuoPractice/Junior/jvmTest/test01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/225用队列实现栈.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/225用队列实现栈.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E02_SequenceOfStringHolders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E02_SequenceOfStringHolders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E09_AbstractMusic5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E09_AbstractMusic5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E10_PlayableMusic5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E10_PlayableMusic5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/CycleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/CycleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Derived.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/Derived.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/E01_Upcasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/E01_Upcasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/FieldAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/FieldAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Music3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/Music3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/PloyConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/PloyConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/PrivateOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/PrivateOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/ReferenceCounting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/ReferenceCounting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Tricycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/Tricycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/TwoMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/TwoMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/Unicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/Unicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_19/test01/testCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_19/test01/testCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/aa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test01/aa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test01/aaa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/bb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test01/bb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/bbb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test01/bbb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/ccc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test01/ccc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/ddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test01/ddd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test01/test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test02/Adventure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/C_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test02/C_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/HorrorShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test02/HorrorShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/Music5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test02/Music5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/classprocessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_20/test02/classprocessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/AdaptedRandomDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_21/AdaptedRandomDoubles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/E17_ImplicitStaticFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_21/E17_ImplicitStaticFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/NestingInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_21/NestingInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_21/RandomDoubles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_21/RandomWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_22/DotNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_22/DotThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_22/Parcel1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_22/Parcel2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_22/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_23/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_23/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test12_24/ZigZagPrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/test12_24/ZigZagPrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,31 +212,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Algorithm" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/Solution.java">
+      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_03_Islands.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_03_Islands.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/README.txt">
+      <file leaf-file-name="Code_01_TrieTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_01_TrieTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintEdge.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/PrintEdge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="180">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -134,6 +255,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -144,57 +266,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/aa.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test01/bb.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/Music5.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/E04_AbstractBase.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E07_RodentInterface.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E08_FastFood.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E10_PlayableMusic5.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E09_AbstractMusic5.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/classprocessor.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E11_Swapper.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/Adventure.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E13_Diamond.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/HorrorShow.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/interfaces/E14_InterfaceInheritance.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/C_test.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomWords.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomDoubles.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_21/AdaptedRandomDoubles.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_21/E17_ImplicitStaticFinal.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_21/A1.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_21/NestingInterfaces.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel1.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel2.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/Outer.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E01_ReferenceToInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_22/SequenceSelector.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_22/Sequence.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E02_SequenceOfStringHolders.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E03_InnerAccessingOuter.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotThis.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotNew.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E04_SequenceSelectorTooSequence.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E05_InstanceOfInner.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_11_MaxGap.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test02.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/MyStack2.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/225用队列实现栈.txt" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_23/DogCatQueue.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/DogCatQueue.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_23/PrintEdge.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/PrintEdge.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_24/ZigZagPrintMatrix.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/SortArrayByParity.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/905奇偶排序数组" />
+        <option value="$PROJECT_DIR$/src/com/caiqian.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/test/test01.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/test/Customer.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/test/MyDate.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/MyDate.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/Parcel7.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/Parcel7.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/Parcel9.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/AnonymousConstructor.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/Parcel8.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/Parcel10.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/Outter.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/Factories.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/Parcel11.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E18_NestedClass.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E19_InnerInsideInner.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/ClassInInterface.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/TestBad.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test12_27/B2.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E20_InterfaceWithNested.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/MultiInterfaces.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E21_InterfaceWithNested2.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E22_GetRSelector.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E23_UAB.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/test12_26/Code_02_PrintBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_02_PrintBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Callbacks.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/ApplesAndOrangesWithoutGenerics.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E01_gerbil.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/FruitTEst.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E02_SimpleCollection2.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/UnlimitedSequence.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E03_UnlimitedSequence.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/AddingGroups.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/TreeTest01.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/ErgodicTree.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/BalanceTree.java" />
+        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/ErgodicTree.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/832翻转图像.txt" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/FlippinganImage.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution2.java" />
         <option value="$PROJECT_DIR$/src/README.txt" />
+        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java" />
+        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/Test023.java" />
+        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/aaa.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_03_Islands.java" />
+        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_01_TrieTree.java" />
       </list>
     </option>
   </component>
@@ -208,47 +330,17 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="425" />
-    <option name="width" value="1958" />
-    <option name="height" value="1677" />
+    <option name="x" value="-8" />
+    <option name="y" value="446" />
+    <option name="width" value="1944" />
+    <option name="height" value="1665" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="test12_24" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,53 +363,67 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="caiqian" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="caiqian" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-              <item name="MyStack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="test12_23" type="462c0819:PsiDirectoryNode" />
+              <item name="Junior" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="Junior" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Algorithm" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Scanner&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java&#10;Scann&#9;PSI&#9;JAVA://java.util.Scanner&#10;Filter&#9;PSI&#9;JAVA://java.util.logging.Filter&#10;directByte&#9;PSI&#9;JAVA://java.nio.DirectByteBuffer&#10;file&#9;null&#9;null&#10;serializable&#9;PSI&#9;JAVA://java.io.Serializable" />
+    <property name="SearchEverywhereHistoryKey" value="hashmap&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Arrayli&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;Collection&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collection.java&#10;Arraylist&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;Tree&#9;FILE&#9;file://D:/Algorithm/src/test/ZuoPractice/Junior/Code_02_PrintBinaryTree.java&#10;ArrayLis&#9;FILE&#9;uml://JAVA/java.util.ArrayList&#10;Seriali&#9;PSI&#9;JAVA://java.io.Serializable&#10;Objec&#9;PSI&#9;JAVA://java.lang.Object&#10;RandomAccess&#9;PSI&#9;JAVA://java.util.RandomAccess&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Scanner&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java&#10;Scann&#9;PSI&#9;JAVA://java.util.Scanner&#10;Filter&#9;PSI&#9;JAVA://java.util.logging.Filter&#10;directByte&#9;PSI&#9;JAVA://java.nio.DirectByteBuffer&#10;file&#9;null&#9;null&#10;serializable&#9;PSI&#9;JAVA://java.io.Serializable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17023346" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Algorithm\src\ThinkingInJava\test12_26" />
+      <recent name="D:\Algorithm\src\ThinkingInJava\test12_22" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ThinkingInJava.test12_22" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Algorithm\src\ThinkingInJava\test12_22" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Algorithm\src\com\caiqian\Arrays\FlippinganImage" />
+      <recent name="D:\Algorithm\src\ThinkingInJava\test12_26" />
+      <recent name="D:\Algorithm\src\com\caiqian" />
+      <recent name="D:\Algorithm\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -332,9 +438,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortArrayByParity">
-    <configuration name="Code_11_MaxGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ZuoPractice.Junior.Code_11_MaxGap" />
+  <component name="RunManager" selected="Application.Code_03_Islands">
+    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.test.day12_28.Base" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.test.day12_28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Code_03_Islands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ZuoPractice.Junior.Code_03_Islands" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -343,62 +459,96 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="E05_InstanceOfInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.innerclasses.E05_InstanceOfInner" />
+    <configuration name="Test023" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkingInJava.innerclasses.*" />
+          <option name="PATTERN" value="test.ZuoPractice.Junior.jvmTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.ZuoPractice.Junior.jvmTest" />
+      <option name="MAIN_CLASS_NAME" value="test.ZuoPractice.Junior.jvmTest.Test023" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="PrintEdge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ZuoPractice.Junior.PrintEdge" />
+    <configuration name="Test023.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.ZuoPractice.Junior.*" />
+          <option name="PATTERN" value="test.ZuoPractice.Junior.jvmTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.ZuoPractice.Junior.jvmTest" />
+      <option name="MAIN_CLASS_NAME" value="test.ZuoPractice.Junior.jvmTest.Test023" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="SortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.caiqian.Arrays.SortArrayByParity.SortArrayByParity" />
+    <configuration name="test01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.caiqian.Arrays.SortArrayByParity.*" />
+          <option name="PATTERN" value="test.ZuoPractice.Junior.jvmTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="ZigZagPrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.test12_24.ZigZagPrintMatrix" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThinkingInJava.test12_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.ZuoPractice.Junior.jvmTest" />
+      <option name="MAIN_CLASS_NAME" value="test.ZuoPractice.Junior.jvmTest.test01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <list>
-      <item itemvalue="Application.E05_InstanceOfInner" />
-      <item itemvalue="Application.Code_11_MaxGap" />
-      <item itemvalue="Application.PrintEdge" />
-      <item itemvalue="Application.ZigZagPrintMatrix" />
-      <item itemvalue="Application.SortArrayByParity" />
+      <item itemvalue="JUnit.test01.test01" />
+      <item itemvalue="JUnit.Test023.test01" />
+      <item itemvalue="JUnit.Test023" />
+      <item itemvalue="Application.Base" />
+      <item itemvalue="Application.Code_03_Islands" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortArrayByParity" />
-        <item itemvalue="Application.ZigZagPrintMatrix" />
-        <item itemvalue="Application.PrintEdge" />
-        <item itemvalue="Application.Code_11_MaxGap" />
-        <item itemvalue="Application.E05_InstanceOfInner" />
+        <item itemvalue="Application.Code_03_Islands" />
+        <item itemvalue="Application.Base" />
+        <item itemvalue="JUnit.Test023.test01" />
+        <item itemvalue="JUnit.Test023" />
+        <item itemvalue="JUnit.test01.test01" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -427,73 +577,98 @@
       <workItem from="1545359367395" duration="4306000" />
       <workItem from="1545368245547" duration="1607000" />
       <workItem from="1545376980408" duration="23000" />
-      <workItem from="1545447840455" duration="48942000" />
+      <workItem from="1545447840455" duration="57673000" />
+      <workItem from="1545699826457" duration="6755000" />
+      <workItem from="1545719404832" duration="12287000" />
+      <workItem from="1545781137680" duration="40235000" />
+      <workItem from="1545906683436" duration="8981000" />
+      <workItem from="1545918441413" duration="13584000" />
+      <workItem from="1545978391570" duration="7945000" />
+      <workItem from="1545986674442" duration="3941000" />
+      <workItem from="1545998304294" duration="9484000" />
+      <workItem from="1546044252023" duration="1973000" />
+      <workItem from="1546080532287" duration="47621000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestBuffer - 2018.12.18 at 23h 53m 40s.xml">
-      <configuration name="TestBuffer" configurationId="JUnit" />
+    <history-entry file="TEstBuffer_test04 - 2018.12.27 at 13h 15m 51s.xml">
+      <configuration name="TEstBuffer.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBuffer_test01 - 2018.12.18 at 23h 54m 23s.xml">
-      <configuration name="TestBuffer.test01" configurationId="JUnit" />
+    <history-entry file="TEstBuffer_test5 - 2018.12.27 at 13h 49m 59s.xml">
+      <configuration name="TEstBuffer.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBuffer_test03 - 2018.12.19 at 00h 35m 46s.xml">
-      <configuration name="TestBuffer.test03" configurationId="JUnit" />
+    <history-entry file="TEstBuffer_test5 - 2018.12.27 at 14h 04m 49s.xml">
+      <configuration name="TEstBuffer.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test01 - 2018.12.20 at 10h 31m 25s.xml">
+    <history-entry file="TEstBuffer_test5 - 2018.12.27 at 14h 04m 56s.xml">
+      <configuration name="TEstBuffer.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test01 - 2018.12.31 at 22h 33m 05s.xml">
       <configuration name="test01.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test02 - 2018.12.20 at 10h 37m 53s.xml">
-      <configuration name="test01.test02" configurationId="JUnit" />
+    <history-entry file="Test023_test01 - 2018.12.31 at 22h 34m 57s.xml">
+      <configuration name="Test023.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01 - 2018.12.20 at 10h 43m 32s.xml">
-      <configuration name="test01" configurationId="JUnit" />
+    <history-entry file="Test023_test01 - 2018.12.31 at 22h 35m 05s.xml">
+      <configuration name="Test023.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test02 - 2018.12.20 at 10h 43m 36s.xml">
-      <configuration name="test01.test02" configurationId="JUnit" />
+    <history-entry file="Test023 - 2018.12.31 at 22h 36m 13s.xml">
+      <configuration name="Test023" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test02 - 2018.12.20 at 10h 43m 54s.xml">
-      <configuration name="test01.test02" configurationId="JUnit" />
+    <history-entry file="Test023 - 2018.12.31 at 23h 17m 23s.xml">
+      <configuration name="Test023" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test023_test01 - 2018.12.31 at 23h 17m 46s.xml">
+      <configuration name="Test023.test01" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204300000" />
+    <option name="totallyTimeSpent" value="365837000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="340" width="1566" height="1341" extended-state="0" />
+    <frame x="-6" y="357" width="1555" height="1332" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32561985" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972524" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32389677" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50032616" side_tool="true" weight="0.29600886" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26280993" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.329148" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49967384" visible="true" weight="0.31057453" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32972524" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.485426" visible="true" weight="0.168435" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6171792" visible="true" weight="0.18303274" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.514574" side_tool="true" visible="true" weight="0.168435" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329148" />
+      <window_info id="Structure" order="1" sideWeight="0.38282079" side_tool="true" weight="0.16469038" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44132233" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.51913136" side_tool="true" weight="0.28803244" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.438801" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="CDI" order="5" />
+      <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32964823" />
@@ -502,36 +677,36 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32964823" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967384" visible="true" weight="0.4121547" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36261684" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329148" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.51913136" side_tool="true" weight="0.28803244" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3280255" />
+      <window_info anchor="right" id="CDI" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50032616" side_tool="true" weight="0.29600886" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32415903" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.329148" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24308588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6171792" visible="true" weight="0.18298785" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="CDI" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.38282079" side_tool="true" weight="0.16469038" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983051" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43960243" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,442 +731,526 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ThinkingInJava/test12_24/ZigZagPrintMatrix.java</url>
+          <url>file://$PROJECT_DIR$/src/ThinkingInJava/test/test12_24/ZigZagPrintMatrix.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="60" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.logging/java/util/logging/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/interfaces/E09_AbstractMusic5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/classprocessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/interfaces/E11_Swapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/Adventure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/interfaces/E13_Diamond.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/HorrorShow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/interfaces/E14_InterfaceInheritance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_20/test02/C_test.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E21_InterfaceWithNested2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Readable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="552" column="24" selection-start-line="552" selection-start-column="24" selection-end-line="552" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/interfaces/E10_PlayableMusic5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/nio/CharBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="1577" column="5" lean-forward="true" selection-start-line="1577" selection-start-column="5" selection-end-line="1577" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_21/RandomWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_21/AdaptedRandomDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_21/A1.java" />
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_21/NestingInterfaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_22/Parcel2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
-          <folding>
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="135" column="13" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_21/E17_ImplicitStaticFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E02_SequenceOfStringHolders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E01_ReferenceToInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="17" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E03_InnerAccessingOuter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_22/DotNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_22/Sequence2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_22/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-          </folding>
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E04_SequenceSelectorTooSequence.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E22_GetRSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E23_UAB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/FindFirstIntersectNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Callbacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2701">
+          <caret line="998" column="23" selection-start-line="998" selection-start-column="23" selection-end-line="998" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/RandomAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/ApplesAndOrangesWithoutGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="178" column="31" lean-forward="true" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.NavigableSet">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.NavigableSet</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.SortedSet</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.Set</node>
+            <node x="" y="">java.util.NavigableSet</node>
+            <node x="" y="">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="63.0" y="178.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="103" column="24" lean-forward="true" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/FruitTEst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/hoding/E01_gerbil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/hoding/E02_SimpleCollection2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/hoding/E03_UnlimitedSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="218" column="24" selection-start-line="218" selection-start-column="24" selection-end-line="218" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="4307" column="32" lean-forward="true" selection-start-line="4307" selection-start-column="32" selection-end-line="4307" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.ArrayList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.ArrayList</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.RandomAccess</node>
+            <node x="" y="">java.util.List</node>
+            <node x="" y="">java.util.AbstractCollection</node>
+            <node x="" y="">java.lang.Cloneable</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.AbstractList</node>
+            <node x="" y="">java.lang.Iterable</node>
+            <node x="" y="">java.util.ArrayList</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="291.0" y="178.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11844">
+          <caret line="704" column="25" selection-start-line="704" selection-start-column="25" selection-end-line="704" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/AddingGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7020">
+          <caret line="418" column="12" selection-start-line="418" selection-start-column="12" selection-end-line="418" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="5483" column="67" lean-forward="true" selection-start-line="5483" selection-start-column="67" selection-end-line="5483" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_02_PrintBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="72" column="55" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/TreeTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E05_InstanceOfInner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/PreInPosTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="576">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Median.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/ErgodicTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="279" column="5" lean-forward="true" selection-start-line="279" selection-start-column="5" selection-end-line="279" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#791#797#0" expanded="true" />
+            <element signature="e#1609#1615#0" expanded="true" />
+            <element signature="e#3726#3732#0" expanded="true" />
+            <element signature="e#4921#4929#0" expanded="true" />
+            <element signature="e#5649#5655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Cloneable">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Cloneable</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Cloneable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="15.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="134" column="14" lean-forward="true" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="137" column="14" lean-forward="true" selection-start-line="137" selection-start-column="14" selection-end-line="137" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Hashtable">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Hashtable</OriginalElement>
+          <nodes>
+            <node x="221.0" y="0.0">java.lang.Cloneable</node>
+            <node x="0.0" y="0.0">java.util.Map</node>
+            <node x="94.0" y="0.0">java.util.Dictionary</node>
+            <node x="157.75" y="81.0">java.util.Hashtable</node>
+            <node x="347.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Hashtable" target="java.util.Dictionary">
+              <point x="-13.25" y="-15.5" />
+              <point x="197.5" y="51.0" />
+              <point x="147.5" y="51.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Hashtable" target="java.util.Map">
+              <point x="-39.75" y="-15.5" />
+              <point x="171.0" y="61.0" />
+              <point x="37.0" y="61.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Hashtable" target="java.io.Serializable">
+              <point x="39.75" y="-15.5" />
+              <point x="250.5" y="61.0" />
+              <point x="403.5" y="61.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Hashtable" target="java.lang.Cloneable">
+              <point x="13.25" y="-15.5" />
+              <point x="224.0" y="51.0" />
+              <point x="274.0" y="51.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-143.0" y="-91.0" />
+          <SelectedNodes>
+            <node>java.util.Hashtable</node>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="259.0" y="81.0">java.util.AbstractMap</node>
+            <node x="133.00000000000003" y="81.0">java.lang.Cloneable</node>
+            <node x="322.0416666666667" y="0.0">java.util.Map</node>
+            <node x="202.00000000000003" y="162.0">java.util.HashMap</node>
+            <node x="0.0" y="81.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="38.625" y="-15.5" />
+              <point x="292.125" y="142.0" />
+              <point x="393.5" y="142.0" />
+              <point x="393.5" y="56.0" />
+              <point x="377.5416666666667" y="56.0" />
+              <point x="18.5" y="15.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="-12.875" y="-15.5" />
+              <point x="240.62500000000003" y="132.0" />
+              <point x="186.00000000000003" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="12.875" y="-15.5" />
+              <point x="266.375" y="132.0" />
+              <point x="321.0" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-15.5" />
+              <point x="321.0" y="56.0" />
+              <point x="340.5416666666667" y="56.0" />
+              <point x="-18.5" y="15.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="-38.625" y="-15.5" />
+              <point x="214.87500000000003" y="142.0" />
+              <point x="56.5" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-174.5" y="-50.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/832翻转图像.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="37" selection-start-line="37" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Merge.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/JConsoleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="162">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="22" />
-          <folding>
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Stack/MyQueue/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/MyStack2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/Test023.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/UnionFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="144">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/DogCatQueue.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Stack/MyStack/225用队列实现栈.txt">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/BalanceTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="727">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/DogCatQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Stack/MyQueue/232用栈实现队列.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_11_MaxGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_23/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/PrintEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test12_24/ZigZagPrintMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/905奇偶排序数组">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/aaa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/README.txt">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
+        <state relative-caret-position="450">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_03_Islands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_01_TrieTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>

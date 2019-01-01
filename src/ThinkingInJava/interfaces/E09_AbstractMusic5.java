@@ -1,6 +1,6 @@
 package ThinkingInJava.interfaces;
 
-import ThinkingInJava.test12_19.test01.Note;
+import ThinkingInJava.test.test12_19.test01.Note;
 
 /**
  * @author SGN196
