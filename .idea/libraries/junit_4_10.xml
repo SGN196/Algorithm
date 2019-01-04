@@ -2,8 +2,18 @@
   <library name="junit-4.10">
     <CLASSES>
       <root url="jar://D:/tools_idea/jar包/junit-4.10/junit-4.10.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/javassist.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/javaws.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/net.mindview.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/swt-debug.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/swt.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/tools.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/xom-1.2.10.jar!/" />
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/xom-samples.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/tools.jar!/" />
+    </SOURCES>
   </library>
 </component>
