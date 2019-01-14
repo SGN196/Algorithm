@@ -2,31 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46aa8e36-8e15-4e47-a94e-bb7444ca660b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E04_MovieNameGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E06_StringListFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E07_TestList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Addinggroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_02_Hanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_02_Less_Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_03_IPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_03_PrintAllSubsquences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_06_BestArrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_07_MinPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_11_IsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/ListFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/lowestLexicography.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/LinkedListFeatrues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/ListIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/SimpleIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/104二叉树的最大深度.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/E05_ComplexConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/exceptions/E03_ArrayIndexBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/exceptions/E04_ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/exceptions/E05_Resumption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/exceptions/E06_LoggingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/exceptions/E07_LoggedArrayIndexBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/exceptions/E08_ExceptionSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E18_MapOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E27_CommandQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E28_PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/hoding/E29_PriorityQueueSubtlety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/strings/E20_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/RegexNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/Replacing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/SiimpleRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/Splitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/TestRegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/ScannerDelimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/SweetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ClassCasts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ClassInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/FilledList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/GenericToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/WildcardClassReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/AdapterMethodIdiom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/ArrayIsNotIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/CollectionSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/E30_CollectionSequence2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/InterfaceVsIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/MapOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/MultiIterableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/NonCollectionSeqquence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/PriorityQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_6/FullConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_6/InheritingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_6/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/ExceptionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/ExtraFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/LoggingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/LoggingExceptions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_7/test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/Hex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/InfiniteRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/IntegerMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/UsingStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E03_Rhomboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E04_Instanceof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E08_RecursiveClassPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E10_PrimitiveOrTrue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Cymric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/EgyptianMau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/ForNameCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Manx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Mutt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Pug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Rat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/303区域和检索-数组不可变" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/page/HttpClientNVsJsoup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/page/MyHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawl/page/MyJsoup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/test/ZuoPractice/Junior/Code_03_Islands.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/test/ZuoPractice/Junior/Code_03_Islands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_01_TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_01_TrieTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test/day1_3/test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/ThinkingInJava/test/day1_3/test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/test01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,24 +119,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/Solution.java">
+      <file leaf-file-name="PetCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="5" />
+            <state>
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForNameCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/ForNameCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
               <folding>
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#236#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="104二叉树的最大深度.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/104二叉树的最大深度.txt">
+      <file leaf-file-name="MyHttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crawl/page/MyHttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="540">
+              <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpClientNVsJsoup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crawl/page/HttpClientNVsJsoup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="303区域和检索-数组不可变" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/303区域和检索-数组不可变">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/NumArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyJsoup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crawl/page/MyJsoup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PetCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="674">
+              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -93,57 +220,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E21_InterfaceWithNested2.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E22_GetRSelector.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/innerclasses/E23_UAB.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/test12_26/Code_02_PrintBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_02_PrintBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Callbacks.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/ApplesAndOrangesWithoutGenerics.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E01_gerbil.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/FruitTEst.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E02_SimpleCollection2.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/UnlimitedSequence.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E03_UnlimitedSequence.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/AddingGroups.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/TreeTest01.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/ErgodicTree.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/BalanceTree.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/ErgodicTree.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/SortArrayByParity/832翻转图像.txt" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/FlippinganImage.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Arrays/FlippinganImage/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/README.txt" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/test01.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/jvmTest/Test023.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/UnionFind.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/aaa.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day12_28/Base.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_03_Islands.java" />
-        <option value="$PROJECT_DIR$/src/test/ZuoPractice/Junior/Code_01_TrieTree.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/lowestLexicography.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E04_MovieNameGenerator.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/ListFeatures.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Addinggroups.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_02_Less_Money.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Test.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_03_IPO.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_06_BestArrange.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_02_Hanoi.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_03_PrintAllSubsquences.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_07_MinPath.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_11_IsSum.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E06_StringListFeatures.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/hoding/E07_TestList.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/SimpleIteration.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/ListIteration.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/LinkedListFeatrues.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/test01.java" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/104二叉树的最大深度.txt" />
-        <option value="$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/Receipt.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/Conversion.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/E05_ComplexConversion.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/Hex.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/IntegerMatch.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/Replacing.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/RegexNum.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/Splitting.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/TestRegularExpression.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/SiimpleRead.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/strings/E20_Scanner.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/ScannerDelimiter.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/SweetShop.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/ToyTest.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E04_Instanceof.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E08_RecursiveClassPrint.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E10_PrimitiveOrTrue.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/test01.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ClassInitialization.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/WildcardClassReferences.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/FilledList.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/GenericToyTest.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ClassCasts.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Pet.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Individual.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Dog.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Mutt.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Pug.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Cat.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/EgyptianMau.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Manx.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Cymric.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Rodent.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Rat.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Hamster.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E03_Rhomboid.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCreator.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCoutn.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCount.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/ForNameCreator.java" />
+        <option value="$PROJECT_DIR$/src/crawl.java" />
+        <option value="$PROJECT_DIR$/src/crawl/page/RequestAndResponseTool.java" />
+        <option value="$PROJECT_DIR$/src/crawl/page/MyJsoup.java" />
+        <option value="$PROJECT_DIR$/src/crawl/page/MyHttpClient.java" />
+        <option value="$PROJECT_DIR$/src/crawl/page/HttpClientNVsJsoup.java" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/303区域和检索-数组不可变" />
+        <option value="$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/NumArray.java" />
       </list>
     </option>
   </component>
@@ -163,10 +290,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-17" />
-    <option name="y" value="6" />
-    <option name="width" value="1218" />
-    <option name="height" value="1045" />
+    <option name="x" value="75" />
+    <option name="y" value="256" />
+    <option name="width" value="1774" />
+    <option name="height" value="1825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -174,6 +301,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -202,6 +330,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,27 +354,32 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="caiqian" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxinumDepthOfBinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="RangesumQuery" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="caiqian" type="462c0819:PsiDirectoryNode" />
+              <item name="KthLargestElement_in_a_Stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="TextFile&#9;PSI&#9;JAVA://net.mindview.util.TextFile&#10;Linked&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java&#10;Set&#9;PSI&#9;JAVA://java.util.Set&#10;set&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/TreeSet.java&#10;SEt&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashSet.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;listIterator&#9;PSI&#9;JAVA://java.util.ListIterator&#10;shit&#9;PSI&#9;JAVA://sun.java2d.pipe.ShapeSpanIterator&#10;LinkedList&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java&#10;ArrayL&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Map&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Queue&#9;PSI&#9;JAVA://java.awt.Queue&#10;LinkedHashM&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;LinkedIn&#9;null&#9;null&#10;TreeSet&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/TreeSet.java&#10;Arrays&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java&#10;Array&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;collection&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collection.java&#10;Collections&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java&#10;hashmap&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Arrayli&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;Collection&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collection.java&#10;Arraylist&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;Tree&#9;FILE&#9;file://D:/Algorithm/src/test/ZuoPractice/Junior/Code_02_PrintBinaryTree.java&#10;ArrayLis&#9;FILE&#9;uml://JAVA/java.util.ArrayList&#10;Seriali&#9;PSI&#9;JAVA://java.io.Serializable&#10;Objec&#9;PSI&#9;JAVA://java.lang.Object&#10;RandomAccess&#9;PSI&#9;JAVA://java.util.RandomAccess&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Scanner&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java&#10;Scann&#9;PSI&#9;JAVA://java.util.Scanner&#10;Filter&#9;PSI&#9;JAVA://java.util.logging.Filter&#10;directByte&#9;PSI&#9;JAVA://java.nio.DirectByteBuffer&#10;file&#9;null&#9;null&#10;serializable&#9;PSI&#9;JAVA://java.io.Serializable" />
+    <property name="SearchEverywhereHistoryKey" value="Integer&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java&#10;Obje&#9;PSI&#9;JAVA://java.lang.Object&#10;CLass&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Class.java&#10;charsequence&#9;PSI&#9;JAVA://java.lang.CharSequence&#10;printWrit&#9;PSI&#9;JAVA://java.io.PrintWriter&#10;printS&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/PrintStream.java&#10;Arraylist&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;error&#9;PSI&#9;JAVA://java.lang.Error&#10;Throw&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Throwable.java&#10;StackTraceElement&#9;PSI&#9;JAVA://java.lang.StackTraceElement&#10;StackTra&#9;PSI&#9;JAVA://jdk.jfr.StackTrace&#10;autoclose&#9;PSI&#9;JAVA://java.lang.AutoCloseable&#10;IOExcepti&#9;PSI&#9;JAVA://java.io.IOException&#10;EOF&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/EOFException.java&#10;EOFE&#9;PSI&#9;JAVA://java.io.EOFException&#10;Collection&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collection.java&#10;Linke&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java&#10;Stack&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java&#10;Abstrac&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractList.java&#10;TextFile&#9;PSI&#9;JAVA://net.mindview.util.TextFile&#10;Linked&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java&#10;Set&#9;PSI&#9;JAVA://java.util.Set&#10;set&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/TreeSet.java&#10;SEt&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashSet.java&#10;listIterator&#9;PSI&#9;JAVA://java.util.ListIterator&#10;shit&#9;PSI&#9;JAVA://sun.java2d.pipe.ShapeSpanIterator&#10;LinkedList&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java&#10;ArrayL&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Map&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Queue&#9;PSI&#9;JAVA://java.awt.Queue&#10;LinkedHashM&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;LinkedIn&#9;null&#9;null&#10;TreeSet&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/TreeSet.java&#10;Arrays&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java&#10;Array&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;collection&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collection.java&#10;Collections&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java&#10;hashmap&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Arrayli&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;Tree&#9;FILE&#9;file://D:/Algorithm/src/test/ZuoPractice/Junior/Code_02_PrintBinaryTree.java&#10;ArrayLis&#9;FILE&#9;uml://JAVA/java.util.ArrayList&#10;Seriali&#9;PSI&#9;JAVA://java.io.Serializable&#10;Objec&#9;PSI&#9;JAVA://java.lang.Object&#10;RandomAccess&#9;PSI&#9;JAVA://java.util.RandomAccess&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Scanner&#9;FILE&#9;jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/xom-samples.jar!/" />
+    <property name="last_opened_file_path" value="D:/tools_idea/jar包/httpcomponents-client-4.5.6/jsoup_api/jsoup-1.11.3.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.17023346" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -278,112 +412,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.test01.test07">
-    <configuration name="test01.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.NumArray">
+    <configuration name="HttpClientNVsJsoup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawl.page.HttpClientNVsJsoup" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkingInJava.test.day1_3.*" />
+          <option name="PATTERN" value="crawl.page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ThinkingInJava.test.day1_3" />
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.test.day1_3.test01" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
-    <configuration name="test01.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyHttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawl.page.MyHttpClient" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkingInJava.test.day1_3.*" />
+          <option name="PATTERN" value="crawl.page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ThinkingInJava.test.day1_3" />
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.test.day1_3.test01" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
-    <configuration name="test01.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyJsoup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawl.page.MyJsoup" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkingInJava.test.day1_3.*" />
+          <option name="PATTERN" value="crawl.page.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ThinkingInJava.test.day1_3" />
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.test.day1_3.test01" />
-      <option name="METHOD_NAME" value="test06" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
-    <configuration name="test01.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.caiqian.dynamic.RangesumQuery.NumArray" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkingInJava.test.day1_3.*" />
+          <option name="PATTERN" value="com.caiqian.dynamic.RangesumQuery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ThinkingInJava.test.day1_3" />
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.test.day1_3.test01" />
-      <option name="METHOD_NAME" value="test07" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
-    <configuration name="test01.test08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E03_Rhomboid.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThinkingInJava.test.day1_3.*" />
+          <option name="PATTERN" value="ThinkingInJava.typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ThinkingInJava.test.day1_3" />
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.test.day1_3.test01" />
-      <option name="METHOD_NAME" value="test08" />
+      <option name="PACKAGE_NAME" value="ThinkingInJava.typeinfo" />
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.typeinfo.E03_Rhomboid" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -395,19 +477,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.test01.test02" />
-      <item itemvalue="JUnit.test01.test04" />
-      <item itemvalue="JUnit.test01.test06" />
-      <item itemvalue="JUnit.test01.test08" />
-      <item itemvalue="JUnit.test01.test07" />
+      <item itemvalue="JUnit.E03_Rhomboid.test" />
+      <item itemvalue="Application.MyHttpClient" />
+      <item itemvalue="Application.MyJsoup" />
+      <item itemvalue="Application.HttpClientNVsJsoup" />
+      <item itemvalue="Application.NumArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.test01.test07" />
-        <item itemvalue="JUnit.test01.test08" />
-        <item itemvalue="JUnit.test01.test06" />
-        <item itemvalue="JUnit.test01.test04" />
-        <item itemvalue="JUnit.test01.test02" />
+        <item itemvalue="Application.NumArray" />
+        <item itemvalue="Application.HttpClientNVsJsoup" />
+        <item itemvalue="Application.MyHttpClient" />
+        <item itemvalue="Application.MyJsoup" />
+        <item itemvalue="JUnit.E03_Rhomboid.test" />
       </list>
     </recent_temporary>
   </component>
@@ -459,44 +541,51 @@
       <workItem from="1546424763667" duration="9422000" />
       <workItem from="1546476024710" duration="32466000" />
       <workItem from="1546583434463" duration="114000" />
-      <workItem from="1546583576571" duration="9418000" />
+      <workItem from="1546583576571" duration="10779000" />
+      <workItem from="1546599678902" duration="21259000" />
+      <workItem from="1546749716768" duration="8311000" />
+      <workItem from="1546821108554" duration="1644000" />
+      <workItem from="1546826835080" duration="4105000" />
+      <workItem from="1546842966966" duration="35969000" />
+      <workItem from="1546995397969" duration="59106000" />
+      <workItem from="1547370118192" duration="14019000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test01_test02 - 2019.01.04 at 15h 52m 56s.xml">
-      <configuration name="test01.test02" configurationId="JUnit" />
+    <history-entry file="Hamster_test - 2019.01.13 at 17h 06m 36s.xml">
+      <configuration name="Hamster.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test04 - 2019.01.04 at 16h 43m 52s.xml">
-      <configuration name="test01.test04" configurationId="JUnit" />
+    <history-entry file="Hamster_test - 2019.01.13 at 17h 06m 40s.xml">
+      <configuration name="Hamster.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test04 - 2019.01.04 at 16h 44m 13s.xml">
-      <configuration name="test01.test04" configurationId="JUnit" />
+    <history-entry file="Hamster_test - 2019.01.13 at 17h 06m 59s.xml">
+      <configuration name="Hamster.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test04 - 2019.01.04 at 16h 45m 02s.xml">
-      <configuration name="test01.test04" configurationId="JUnit" />
+    <history-entry file="E03_Rhomboid_test - 2019.01.13 at 17h 07m 23s.xml">
+      <configuration name="E03_Rhomboid.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test06 - 2019.01.04 at 17h 10m 58s.xml">
-      <configuration name="test01.test06" configurationId="JUnit" />
+    <history-entry file="E03_Rhomboid_test - 2019.01.13 at 17h 09m 15s.xml">
+      <configuration name="E03_Rhomboid.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test08 - 2019.01.04 at 17h 15m 59s.xml">
-      <configuration name="test01.test08" configurationId="JUnit" />
+    <history-entry file="E03_Rhomboid_test - 2019.01.13 at 17h 09m 36s.xml">
+      <configuration name="E03_Rhomboid.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test08 - 2019.01.04 at 17h 16m 11s.xml">
-      <configuration name="test01.test08" configurationId="JUnit" />
+    <history-entry file="E03_Rhomboid_test - 2019.01.13 at 17h 09m 49s.xml">
+      <configuration name="E03_Rhomboid.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test07 - 2019.01.04 at 17h 19m 35s.xml">
-      <configuration name="test01.test07" configurationId="JUnit" />
+    <history-entry file="E03_Rhomboid_test - 2019.01.13 at 17h 10m 03s.xml">
+      <configuration name="E03_Rhomboid.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test07 - 2019.01.04 at 17h 20m 56s.xml">
-      <configuration name="test01.test07" configurationId="JUnit" />
+    <history-entry file="E03_Rhomboid_test - 2019.01.13 at 17h 10m 23s.xml">
+      <configuration name="E03_Rhomboid.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="test01_test07 - 2019.01.04 at 17h 21m 18s.xml">
-      <configuration name="test01.test07" configurationId="JUnit" />
+    <history-entry file="E03_Rhomboid_test - 2019.01.13 at 17h 11m 07s.xml">
+      <configuration name="E03_Rhomboid.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="436817000" />
+    <option name="totallyTimeSpent" value="582591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,12 +597,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-17" y="6" width="1218" height="1045" extended-state="0" />
+    <frame x="60" y="205" width="1419" height="1460" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883316" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3234714" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32078314" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -521,22 +610,22 @@
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297224" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.329148" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967384" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967384" visible="true" weight="0.36042136" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32414448" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60818714" visible="true" weight="0.25215888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6011765" visible="true" weight="0.20573108" />
       <window_info anchor="right" id="Database" order="7" weight="0.3297224" />
-      <window_info id="Structure" order="1" sideWeight="0.39181286" side_tool="true" visible="true" weight="0.25215888" />
+      <window_info id="Structure" order="1" sideWeight="0.39882353" side_tool="true" visible="true" weight="0.20573108" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24983074" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" sideWeight="0.51913136" side_tool="true" weight="0.28803244" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43786982" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43674698" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329148" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32906628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="CDI" order="5" />
@@ -551,9 +640,9 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967384" visible="true" weight="0.3092037" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49967384" visible="true" weight="0.21474358" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24983074" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="6" sideWeight="0.51913136" side_tool="true" weight="0.28803244" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32414448" />
@@ -561,24 +650,24 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50032616" side_tool="true" weight="0.29600886" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32389677" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32157177" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883316" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.329148" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.61377245" visible="true" weight="0.2729805" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297224" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.60465115" visible="true" weight="0.18365969" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297224" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Structure" order="1" sideWeight="0.38622755" side_tool="true" visible="true" weight="0.2729805" />
+      <window_info id="Structure" order="1" sideWeight="0.39534885" side_tool="true" weight="0.18108109" />
       <window_info anchor="right" id="CDI" order="5" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329148" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.438801" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43786982" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,8 +703,14 @@
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/CharSequence.java</url>
+          <line>157</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="79" />
+      <option name="time" value="124" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -623,33 +718,109 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/EventQueue.java">
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/StringReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="1408" column="6" selection-start-line="1408" selection-start-column="6" selection-end-line="1408" selection-end-column="6" />
+        <state relative-caret-position="274">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="203" column="36" selection-start-line="203" selection-start-column="36" selection-end-line="203" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.Queue">
+    <entry file="uml://JAVA/java.io.StringReader">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>java.util.Queue</OriginalElement>
+          <OriginalElement>java.io.StringReader</OriginalElement>
           <nodes>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.Queue</node>
-            <node x="" y="">java.lang.Iterable</node>
+            <node x="50.5" y="243.0">java.io.StringReader</node>
+            <node x="122.0" y="81.0">java.io.Closeable</node>
+            <node x="0.0" y="81.0">java.lang.Readable</node>
+            <node x="68.0" y="162.0">java.io.Reader</node>
+            <node x="107.5" y="0.0">java.lang.AutoCloseable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.Reader" target="java.io.Closeable">
+              <point x="22.25" y="-15.5" />
+              <point x="134.75" y="137.0" />
+              <point x="174.0" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.io.Reader" target="java.lang.Readable">
+              <point x="-22.25" y="-15.5" />
+              <point x="90.25" y="137.0" />
+              <point x="51.0" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.io.StringReader" target="java.io.Reader">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-180.0" y="-20.0" />
+          <SelectedNodes>
+            <node>java.io.StringReader</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="1177" column="28" lean-forward="true" selection-start-line="1177" selection-start-column="28" selection-end-line="1177" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_10/SiimpleRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day.java" />
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/strings/E20_Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="4308" column="30" selection-start-line="4308" selection-start-column="30" selection-end-line="4308" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/ScannerDelimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Class">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Class</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.reflect.GenericDeclaration</node>
+            <node x="" y="">java.lang.reflect.Type</node>
+            <node x="" y="">java.lang.Class</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.lang.reflect.AnnotatedElement</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="97.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="195.0" y="97.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -657,415 +828,363 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Queue.java">
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/reflect/Reflection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+        <state relative-caret-position="274">
+          <caret line="64" column="44" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java">
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1940">
-          <caret line="377" column="68" selection-start-line="377" selection-start-column="60" selection-end-line="377" selection-end-column="68" />
+        <state relative-caret-position="3542">
+          <caret line="313" column="50" selection-start-line="313" selection-start-column="50" selection-end-line="313" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedHashMap.java">
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="942">
-          <caret line="216" column="30" lean-forward="true" selection-start-line="216" selection-start-column="30" selection-end-line="216" selection-end-column="30" />
+        <state relative-caret-position="248">
+          <caret line="70" column="11" lean-forward="true" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/SweetShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="336" column="21" selection-start-line="336" selection-start-column="21" selection-end-line="336" selection-end-column="21" />
+        <state relative-caret-position="529">
+          <caret line="31" column="71" lean-forward="true" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/hoding/E04_MovieNameGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E04_Instanceof.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="471" column="28" lean-forward="true" selection-start-line="471" selection-start-column="28" selection-end-line="471" selection-end-column="28" />
+        <state relative-caret-position="216">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.desktop/sun/java2d/pipe/ShapeSpanIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E08_RecursiveClassPrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="889" column="28" lean-forward="true" selection-start-line="889" selection-start-column="28" selection-end-line="889" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/ListFeatures.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E10_PrimitiveOrTrue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Addinggroups.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_11/test01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        <state relative-caret-position="504">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_03_IPO.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ClassInitialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="558">
+          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code.java" />
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_02_Hanoi.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_8/IntegerMatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="40" />
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_07_MinPath.java">
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
+        <state relative-caret-position="-648" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_11_IsSum.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/FilledList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#416#432#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_06_BestArrange.java">
+    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="46" column="49" lean-forward="true" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+        <state relative-caret-position="434">
+          <caret line="474" column="13" selection-start-line="474" selection-start-column="13" selection-end-line="474" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/WildcardClassReferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ToyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/GenericToyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_03_PrintAllSubsquences.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_13/ClassCasts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="80" column="28" lean-forward="true" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_2/Code_02_Less_Money.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Mutt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="423" column="11" lean-forward="true" selection-start-line="423" selection-start-column="8" selection-end-line="423" selection-end-column="14" />
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Random.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Pug.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="4308" column="30" selection-start-line="4308" selection-start-column="30" selection-end-line="4308" selection-end-column="30" />
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/hoding/E06_StringListFeatures.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/EgyptianMau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Manx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Cymric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="16" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Rodent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Rat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/Hamster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/E03_Rhomboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crawl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crawl/page/RequestAndResponseTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/PetCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/typeinfo/pets/ForNameCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crawl/page/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
+    <entry file="file://$PROJECT_DIR$/src/crawl/page/MyJsoup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9520">
-          <caret line="605" column="35" selection-start-line="605" selection-start-column="26" selection-end-line="605" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="1014" column="29" lean-forward="true" selection-start-line="1014" selection-start-column="29" selection-end-line="1014" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/hoding/E07_TestList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-767">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/SimpleIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#265#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/ListIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/LinkedListFeatrues.java">
+    <entry file="file://$PROJECT_DIR$/src/crawl/page/HttpClientNVsJsoup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Vector.java">
+    <entry file="file://$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/303区域和检索-数组不可变">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-639">
-          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/java.util.Stack">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.Stack</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.RandomAccess</node>
-            <node x="" y="">java.util.AbstractCollection</node>
-            <node x="" y="">java.util.List</node>
-            <node x="" y="">java.lang.Cloneable</node>
-            <node x="" y="">java.util.Vector</node>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.AbstractList</node>
-            <node x="" y="">java.util.Stack</node>
-            <node x="" y="">java.lang.Iterable</node>
-            <node x="" y="">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="315.0" y="218.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/caiqian/dynamic/RangesumQuery/NumArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="120" column="34" lean-forward="true" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ImmutableCollections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="608" column="27" lean-forward="true" selection-start-line="608" selection-start-column="27" selection-end-line="608" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.TreeSet">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.TreeSet</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.AbstractCollection</node>
-            <node x="" y="">java.lang.Cloneable</node>
-            <node x="" y="">java.util.SortedSet</node>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.AbstractSet</node>
-            <node x="" y="">java.util.Set</node>
-            <node x="" y="">java.util.NavigableSet</node>
-            <node x="" y="">java.util.TreeSet</node>
-            <node x="" y="">java.lang.Iterable</node>
-            <node x="" y="">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="278.5" y="218.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="962" column="28" lean-forward="true" selection-start-line="962" selection-start-column="28" selection-end-line="962" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="139" column="11" selection-start-line="139" selection-start-column="11" selection-end-line="139" selection-end-column="11" />
-          <folding>
-            <element signature="e#5536#5537#0" expanded="true" />
-            <element signature="e#5583#5584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="150" column="22" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="1227" column="56" lean-forward="true" selection-start-line="1227" selection-start-column="56" selection-end-line="1227" selection-end-column="56" />
-          <folding>
-            <element signature="e#129105#129106#0" expanded="true" />
-            <element signature="e#129159#129160#0" expanded="true" />
-            <element signature="e#129243#129244#0" expanded="true" />
-            <element signature="e#129300#129301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/StringUTF16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="78" column="22" lean-forward="true" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://J:/资源/jar包/ThinkingInJava/ThinkInJavaJar/net.mindview.jar!/net/mindview/util/TextFile.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/test/day1_3/test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="e#1948#1956#0" expanded="true" />
-            <element signature="e#2127#2145#0" expanded="true" />
-            <element signature="e#2366#2384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/104二叉树的最大深度.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/caiqian/Tree/MaxinumDepthOfBinaryTree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="612">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1133,7 +1252,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit-4.10</last-edited>
+          <last-edited>jsoup-1.11.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

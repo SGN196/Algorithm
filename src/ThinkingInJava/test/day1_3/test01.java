@@ -123,6 +123,12 @@ public class test01 {
         System.out.println(hashMap);
     }
 
+    @Test
+    public void test10(){
+        LinkedList<Integer> list = new LinkedList<>();
+        System.out.println(list.pop());
+    }
+
 
 }
 
