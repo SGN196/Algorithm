@@ -9,3 +9,8 @@ com/caiqian/Arrays/SortArrayByParity/905奇偶排序数组.txt                  
 com/caiqian/Arrays/FlippinganImage/832翻转图像.txt                                      2018/12/31 赞 27164
 com/caiqian/Tree/MaxinumDepthOfBinaryTree/104二叉树的最大深度.txt                        2019/1/4   赞  49020
 com/caiqian/dynamic/RangesumQuery/303区域和检索-数组不可变                               2019/1/14  赞  47945
+com/caiqian/dynamic/TimeToBuyAndSellStock/121买股票的最佳时机                           2019/1/14
+com/caiqian/dynamic/ClimbingStairs/70爬楼梯                                            2019/1/14
+com/caiqian/Dynamic/HomeRobber/198打家劫舍                                             2019/1/14
+com/caiqian/Dynamic/MaximumSubarray/53最大子序和                                       2019/1/15
+com/caiqian/Dynamic/MinCostClimbingStairs/746使用最小花费爬楼梯                         2019/1/15     37779

@@ -1,4 +1,4 @@
-package com.caiqian.dynamic.RangesumQuery;
+package com.caiqian.Dynamic.RangesumQuery;
 
 /**
  * @author SGN196
