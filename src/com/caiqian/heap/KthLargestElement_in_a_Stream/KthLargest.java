@@ -1,6 +1,5 @@
 package com.caiqian.heap.KthLargestElement_in_a_Stream;
 
-import java.util.Iterator;
 import java.util.PriorityQueue;
 
 /**

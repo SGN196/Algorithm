@@ -15,9 +15,9 @@ public abstract class PetCreator {
     private Random rand = new Random(47);
     public abstract List<Class<? extends Pet>> types();
     public Pet randomPet(){
-        int n = rand.nextInt(types().size());
+        int n = rand.nextInt(types().size());   //types返回的是一个已经初始化完毕的集合
         try {
-            return types().get(n).getDeclaredConstructor().newInstance();
+            return types().get(n).getDeclaredConstructor().newInstance();  //返回集合中的Class对象生成的对象
         } catch (InstantiationException e) {
             e.printStackTrace();
         } catch (IllegalAccessException e) {

@@ -13,3 +13,5 @@ com/caiqian/dynamic/TimeToBuyAndSellStock/121买股票的最佳时机           
 com/caiqian/dynamic/ClimbingStairs/70爬楼梯                                            2019/1/14
 com/caiqian/Dynamic/HomeRobber/198打家劫舍                                             2019/1/14
 com/caiqian/Dynamic/MaximumSubarray/53最大子序和                                       2019/1/15
+com/caiqian/Dynamic/MinCostClimbingStairs/746使用最小花费爬楼梯                         2019/1/15     37779
+com/caiqian/Math/DiStringMatch/942增减字符串匹配                                        2019/1/24   什么鸡儿题目？

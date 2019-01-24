@@ -32,5 +32,6 @@ public class ForNameCreator extends PetCreator {
     }
     static {loader();}
     public List<Class<? extends  Pet>> types(){
-        return types;    }
+        return types;
+    }
 }
